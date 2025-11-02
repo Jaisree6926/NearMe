@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-(home.html)
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -49,7 +49,7 @@ Execute the programs and publish them.
 </body>
 </html>
 
-(goldentemple.html)
+
 <html>
     <body>
         <center>
@@ -67,7 +67,7 @@ Execute the programs and publish them.
 </html>
 
 
-(jalakandeswarar.html)
+
 <html>
     <body>
         <center>
@@ -85,7 +85,7 @@ Execute the programs and publish them.
 </html>
 
 
-(palamathihills.html)
+
 <html>
     <body>
         <center>
@@ -102,7 +102,7 @@ Execute the programs and publish them.
 </html>
 
 
-(vellorefort.html)
+
 <html>
     <body>
         <center>
@@ -119,7 +119,7 @@ Execute the programs and publish them.
     </body>
 </html>
 
-(yelagirihills.html)
+
 <html>
     <body>
         <center>
@@ -134,7 +134,7 @@ Execute the programs and publish them.
         </font>
     </body>
 </html>
-
+```
 ## OUTPUT
 
 
